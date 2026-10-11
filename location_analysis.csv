@@ -1,0 +1,5 @@
+location,total_calls,avg_response_time_min,availability_rate,target_rate
+peri_urban,1956,6.8497,0.1656,0.0097
+remote,1996,17.6683,0.1583,0.0
+rural,3539,20.1139,0.1871,0.0
+urban,2509,7.3077,0.1662,0.0092

@@ -1,0 +1,4 @@
+priority,total_calls,avg_response_time_min,targets_met
+p1_emergency,3587,13.9,15
+p2_urgent,3961,13.82,13
+p3_routine,2452,13.69,14
