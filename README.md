@@ -22,27 +22,27 @@ Objectives
 
 Tools and Technologies
 
-\- \*\*Excel:\*\* Data review and preparation
+\-Excel:Data review and preparation
 
-\- \*\*MySQL:\*\* SQL queries and data analysis
+\-MySQL:SQL queries and data analysis
 
-\- \*\*Python:\*\* Pandas and Matplotlib
+\-Python:Pandas and Matplotlib
 
-\- \*\*Power BI:\*\* Interactive dashboard and visualizations
+\-Power BI:Interactive dashboard and visualizations
 
 
 
 Dataset
 
-\- \*\*Source:\*\* Hugging Face — `electricsheepafrica/africa-synth-ambulance-response-times-all`
+\-Source:Hugging Face — `electricsheepafrica/africa-synth-ambulance-response-times-all`
 
-\- \*\*File:\*\* `data/ambulance\_developing\_ems.csv`
+\-File:`data/ambulance\_developing\_ems.csv`
 
-\- \*\*Records:\*\* 10,000
+\-Records:10,000
 
-\- \*\*Columns:\*\* 29
+\-Columns:29
 
-\- \*\*Important:\*\* The dataset is synthetic. Its results are for analytical and educational purposes and should not be treated as real-world emergency service statistics.
+\-Important:The dataset is synthetic. Its results are for analytical and educational purposes and should not be treated as real-world emergency service statistics.
 
 
 
