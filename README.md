@@ -2,11 +2,11 @@ ResponSight — Emergency Response Intelligence
 
 
 
-Project Overview
+## Project Overview
 
 ResponSight is a data analytics project that explores emergency ambulance calls, recorded response times, ambulance availability, and target response achievement. It uses SQL, Python, Excel, and Power BI to identify demand patterns and potential opportunities for better emergency resource planning.
 
-Objectives
+## Objectives
 
 \- Analyze emergency call volume by location, priority, and time of day.
 
@@ -20,19 +20,19 @@ Objectives
 
 
 
-Tools and Technologies
+## Tools and Technologies
 
-\-Excel:Data review and preparation
+- **Excel:** Data review and preparation
 
-\-MySQL:SQL queries and data analysis
+- **SQL:** SQL queries and data analysis
 
-\-Python:Pandas and Matplotlib
+- **Python:** Pandas and Matplotlib
 
-\-Power BI:Interactive dashboard and visualizations
+- **Power BI:** Interactive dashboard and visualizations
 
 
 
-Dataset
+## Dataset
 
 \-Source:Hugging Face — `electricsheepafrica/africa-synth-ambulance-response-times-all`
 
@@ -46,7 +46,7 @@ Dataset
 
 
 
-Project Structure
+## Project Structure
 
 
 
@@ -82,7 +82,7 @@ ResponSight/
 
 
 
-Key Findings
+## Key Findings
 
 \- The dataset contains 10,000 emergency call records.
 
@@ -96,7 +96,7 @@ Key Findings
 
 
 
-How to Run the Python Analysis
+## How to Run the Python Analysis
 
 1\. Install Python 3 and the required libraries:
 
@@ -120,7 +120,7 @@ How to Run the Python Analysis
 
 
 
-Limitations
+## Limitations
 
 \- The dataset is synthetic and does not represent verified real-world emergency incidents.
 
@@ -132,7 +132,7 @@ Limitations
 
 
 
-Future Improvements
+## Future Improvements
 
 \- Add further data-quality checks and response-time analysis.
 
@@ -142,7 +142,7 @@ Future Improvements
 
 
 
-Author
+## Author
 
 Developed as a data analytics portfolio project.
 
